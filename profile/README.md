@@ -2,10 +2,7 @@
 
 **Your trusted source for healthcare facilities across Iraq. Organized by city, MyDoctor.IQ connects you with hospitals, specialty clinics, pharmacies, labs, and rehabilitation centers, bringing transparency and accessibility to Iraq’s healthcare system.**
 
-<p align="center">
-  <img src="https://github.com/MyDoctor-iq/.github/blob/main/profile/MyDoctor-Logo.png?" width="400" height="400" alt="MyDoctor.IQ Logo"/>
-</p>
-
+<img src="https://github.com/MyDoctor-iq/.github/blob/main/profile/MyDoctor-Logo.png?" width="400" height="400" alt="MyDoctor.IQ Logo"/>
 
 ## Table of Contents
 
